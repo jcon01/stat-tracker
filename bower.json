@@ -1,7 +1,0 @@
-{
-  "name": "stat-tracker",
-  "description": "A application to track a golfers stats",
-  "version": "0.0.0",
-  "homepage": "https://github.com/jcon01/stat-tracker",
-  "private": true
-}
