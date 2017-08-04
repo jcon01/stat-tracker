@@ -1,9 +1,8 @@
-use strict
-
 const User = require('mongoose').model('User');
 const passport = require('passport');
 
 function getErrorMessage(err) {
+	"use strict";
 	let message = '';
 	if (err.code) {
 		switch (err.code) {
